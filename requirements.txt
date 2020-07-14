@@ -43,6 +43,6 @@ soupsieve==1.8
 statistics==1.0.3.5
 subprocess32==3.5.3
 tweepy==3.7.0
-urllib3==1.24.1
+urllib3==1.24.2
 xlsx2csv==0.7.6
 yapf==0.25.0
